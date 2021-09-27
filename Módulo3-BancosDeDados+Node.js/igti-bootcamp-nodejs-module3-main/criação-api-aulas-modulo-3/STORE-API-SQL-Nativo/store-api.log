@@ -1,0 +1,162 @@
+2021-09-07T23:17:56.592Z [store-api] error POST  - Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-07T23:25:46.619Z [store-api] error POST  - Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-07T23:25:47.634Z [store-api] error POST  - Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-08T20:58:50.925Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:05:17.803Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:05:33.320Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:08:42.694Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:09:09.116Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:09:26.744Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:25:51.007Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-08T21:40:37.508Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T00:23:11.142Z [store-api] error POST  - error is not defined
+2021-09-09T00:25:32.745Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T00:27:01.281Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T00:50:33.282Z [store-api] info GET /client
+2021-09-09T01:03:59.826Z [store-api] info GET /client
+2021-09-09T01:12:13.432Z [store-api] info DET /client
+2021-09-09T01:13:25.457Z [store-api] info DET /client
+2021-09-09T01:14:38.827Z [store-api] info DET /client
+2021-09-09T01:17:56.270Z [store-api] info DET /client
+2021-09-09T01:18:12.476Z [store-api] info DET /client
+2021-09-09T01:27:25.135Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:27:32.419Z [store-api] info GET /client
+2021-09-09T01:27:33.122Z [store-api] info GET /client
+2021-09-09T01:27:33.709Z [store-api] info GET /client
+2021-09-09T01:27:40.747Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T01:27:43.852Z [store-api] info GET /client
+2021-09-09T01:27:47.621Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:27:48.243Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:27:48.416Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:27:48.577Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:29:17.424Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:10.241Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:21.668Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:27.159Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:27.897Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:30.946Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:32.709Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:32:36.073Z [store-api] info GET /client
+2021-09-09T01:32:36.285Z [store-api] info GET /client
+2021-09-09T01:32:36.466Z [store-api] info GET /client
+2021-09-09T01:32:49.300Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:35:02.139Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:35:03.313Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:35:03.913Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:35:04.408Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:46:55.616Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:14.871Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:15.719Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:27.963Z [store-api] info GET /client
+2021-09-09T01:47:29.338Z [store-api] info GET /client
+2021-09-09T01:47:31.264Z [store-api] info POST /client - {"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T01:47:37.323Z [store-api] info GET /client
+2021-09-09T01:47:41.752Z [store-api] info GET /client
+2021-09-09T01:47:46.175Z [store-api] info GET /client
+2021-09-09T01:47:49.658Z [store-api] info GET /client
+2021-09-09T01:47:52.203Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:52.953Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:53.116Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:53.268Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:53.430Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:47:53.572Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:48:53.787Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:49:45.561Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:51:36.351Z [store-api] error DELETE  - id is not defined
+2021-09-09T01:52:13.400Z [store-api] info DELETE /client
+2021-09-09T02:35:10.607Z [store-api] info POST /client - {"client_id":21,"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T02:35:33.154Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:03.447Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:23.913Z [store-api] error PUT  - Unexpected string in JSON at position 20
+2021-09-09T02:36:31.426Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:39.647Z [store-api] info GET /client
+2021-09-09T02:36:49.196Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:50.027Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:50.531Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:36:50.694Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:37:45.016Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:37:45.786Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:37:46.197Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:37:46.376Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:37:46.530Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:43:49.905Z [store-api] info GET /client
+2021-09-09T02:43:58.748Z [store-api] info DELETE /client
+2021-09-09T02:44:06.445Z [store-api] info DELETE /client
+2021-09-09T02:44:09.139Z [store-api] info GET /client
+2021-09-09T02:44:13.463Z [store-api] info POST /client - {"client_id":22,"name":"joão","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T02:44:20.406Z [store-api] info POST /client - {"client_id":23,"name":"joão2","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T02:44:24.358Z [store-api] info GET /client
+2021-09-09T02:44:41.692Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:44:57.592Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:45:12.248Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:47:00.937Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:48:16.453Z [store-api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios.
+2021-09-09T02:52:03.520Z [store-api] info PUT /client - {"client_id":22,"name":"joão doido","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T02:52:09.797Z [store-api] info GET /client
+2021-09-09T02:53:17.943Z [store-api] info PUT /client - undefined
+2021-09-09T15:44:56.757Z [store-api] info POST /client - {"client_id":24,"name":"E Eletronicos","cpf":"23509918061","phone":"31989896655","email":"joao@gmail.com","address":"Rua X, n 100"}
+2021-09-09T15:45:15.038Z [store-api] info DELETE /client
+2021-09-09T15:45:50.534Z [store-api] error POST  - Name, CNPJ, Phone, Email e Address são obrigatórios.
+2021-09-09T15:46:17.047Z [store-api] error POST  - null value in column "cnpj" violates not-null constraint
+2021-09-09T15:47:16.875Z [store-api] info PUT /supplier - undefined
+2021-09-09T15:47:22.606Z [store-api] info GET /supplier
+2021-09-09T15:47:39.371Z [store-api] info GET /supplier
+2021-09-09T15:47:47.436Z [store-api] info GET /supplier
+2021-09-09T15:48:01.004Z [store-api] error POST  - null value in column "cnpj" violates not-null constraint
+2021-09-09T15:49:35.626Z [store-api] error POST  - null value in column "cnpj" violates not-null constraint
+2021-09-09T15:50:28.596Z [store-api] error POST  - null value in column "cnpj" violates not-null constraint
+2021-09-09T15:51:08.980Z [store-api] error POST  - null value in column "cnpj" violates not-null constraint
+2021-09-09T15:52:59.707Z [store-api] info POST /supplier - {"supplier_id":6,"name":"E Eletronicos","cnpj":"461651132165431","phone":"31989896655","email":"eeletronico@gmail.com","address":"Rua X, n 100"}
+2021-09-09T16:03:15.429Z [store-api] info PUT /supplier - undefined
+2021-09-09T16:03:21.060Z [store-api] info PUT /supplier - undefined
+2021-09-09T16:03:23.365Z [store-api] info GET /supplier
+2021-09-09T16:03:35.574Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:04:17.036Z [store-api] info GET /supplier
+2021-09-09T16:04:37.778Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:08:18.286Z [store-api] info GET /supplier
+2021-09-09T16:08:22.293Z [store-api] info GET /supplier
+2021-09-09T16:08:28.591Z [store-api] info POST /supplier - {"supplier_id":7,"name":"E Eletronicos","cnpj":"461651132165431","phone":"31989896655","email":"eeletronico@gmail.com","address":"Rua X, n 100"}
+2021-09-09T16:08:29.342Z [store-api] info POST /supplier - {"supplier_id":8,"name":"E Eletronicos","cnpj":"461651132165431","phone":"31989896655","email":"eeletronico@gmail.com","address":"Rua X, n 100"}
+2021-09-09T16:08:34.148Z [store-api] info GET /supplier
+2021-09-09T16:08:58.695Z [store-api] info GET /supplier
+2021-09-09T16:09:02.306Z [store-api] info GET /supplier
+2021-09-09T16:09:30.063Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:09:44.435Z [store-api] error PUT  - Supplier ID, Name, CNPJ, Phone, Email e Address são obrigatórios.
+2021-09-09T16:09:51.204Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:10:02.884Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:11:16.491Z [store-api] error PUT  - Unexpected number in JSON at position 78
+2021-09-09T16:11:21.893Z [store-api] error PUT  - null value in column "cnpj" violates not-null constraint
+2021-09-09T16:12:07.801Z [store-api] info PUT /supplier - {"supplier_id":6,"name":"E Eletronicos alterado","cnpj":"461651132165431","phone":"31989896655","email":"eeletronico@gmail.com","address":"Rua ABC, n 55"}
+2021-09-09T16:12:21.912Z [store-api] info DELETE /supplier
+2021-09-09T16:12:25.916Z [store-api] info GET /supplier
+2021-09-09T16:12:41.617Z [store-api] info DELETE /supplier
+2021-09-09T16:12:46.544Z [store-api] info GET /supplier
+2021-09-09T17:40:47.516Z [store-api] info POST /product - {"product_id":1,"supplier_id":8,"name":"notebook da xuxa","description":"xuxa book i3 512mb RAM","value":"3500","stock":50}
+2021-09-09T17:41:38.393Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:42:37.532Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:44:00.302Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:44:22.798Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:49:04.071Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:49:16.804Z [store-api] info GET /product
+2021-09-09T17:49:56.160Z [store-api] error PUT  - Unexpected string in JSON at position 21
+2021-09-09T17:50:08.235Z [store-api] error PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T17:50:36.445Z [store-api] info POST /product - {"product_id":9,"supplier_id":8,"name":"notebook da xuxa","description":"xuxa book i3 512mb RAM","value":"3500","stock":50}
+2021-09-09T17:51:06.145Z [store-api] info PUT /product - {"product_id":1,"supplier_id":8,"name":"notebook da xuxa inflacionado","description":"xuxa book i3 512mb RAM","value":"5500","stock":50}
+2021-09-09T17:51:11.736Z [store-api] info GET /product
+2021-09-09T17:51:48.469Z [store-api] info GET /product
+2021-09-09T17:51:53.092Z [store-api] info GET /product
+2021-09-09T17:52:01.056Z [store-api] info DELETE /product
+2021-09-09T17:52:03.867Z [store-api] info GET /product
+2021-09-09T17:54:07.545Z [store-api] error PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T18:00:35.281Z [store-api] error PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T18:00:53.022Z [store-api] error PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-09T18:00:58.064Z [store-api] info PUT /product - {"product_id":1,"supplier_id":8,"name":"notebook da xuxa inflacionado","description":"xuxa book i3 512mb RAM","value":"5500","stock":50}
+2021-09-09T18:01:19.672Z [store-api] info GET /product
+2021-09-09T18:01:34.227Z [store-api] info GET /supplier
+2021-09-09T18:01:37.833Z [store-api] info GET /supplier
+2021-09-09T18:02:40.683Z [store-api] error POST  - O supplier_id informado não existe.
+2021-09-09T18:02:57.860Z [store-api] info POST /product - {"product_id":10,"supplier_id":8,"name":"notebook da xuxa","description":"xuxa book i3 512mb RAM","value":"3500","stock":50}
+2021-09-09T18:03:01.294Z [store-api] info GET /product
+2021-09-09T18:07:08.483Z [store-api] error PUT  - O supplier_id informado não existe.
+2021-09-09T18:07:17.113Z [store-api] info PUT /product - {"product_id":1,"supplier_id":8,"name":"notebook da xuxa inflacionado","description":"xuxa book i3 512mb RAM","value":"6500","stock":50}
+2021-09-09T18:07:22.240Z [store-api] info GET /product
