@@ -1,0 +1,349 @@
+2021-09-09T23:41:50.063Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-09T23:49:03.515Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-09T23:50:28.823Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-09T23:50:46.199Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-09T23:55:21.644Z [petshop-api] error POST  - Unexpected token “ in JSON at position 1
+2021-09-09T23:55:48.073Z [petshop-api] error POST  - Unexpected token “ in JSON at position 1
+2021-09-09T23:55:50.069Z [petshop-api] error POST  - Unexpected token “ in JSON at position 1
+2021-09-10T01:08:10.332Z [petshop-api] info GET /proprietario
+2021-09-10T01:08:15.487Z [petshop-api] error GET  - AnimaisService.getAnimaiss is not a function
+2021-09-10T01:08:16.909Z [petshop-api] error GET  - AnimaisService.getAnimaiss is not a function
+2021-09-10T01:08:17.542Z [petshop-api] error GET  - AnimaisService.getAnimaiss is not a function
+2021-09-10T01:08:47.290Z [petshop-api] error GET  - AnimaisService.getAnimaiss is not a function
+2021-09-10T01:17:21.126Z [petshop-api] info GET /animal
+2021-09-12T22:29:35.067Z [petshop-api] info GET /proprietario
+2021-09-12T22:29:46.186Z [petshop-api] info GET /animal
+2021-09-13T19:09:20.324Z [petshop-api] info GET /proprietario
+2021-09-13T19:09:27.241Z [petshop-api] info GET /animal
+2021-09-13T19:12:08.059Z [petshop-api] info GET /animal
+2021-09-13T19:12:25.966Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:12:40.614Z [petshop-api] info GET /proprietario
+2021-09-13T19:12:52.647Z [petshop-api] info GET /animal
+2021-09-13T19:18:53.576Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:20:14.753Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:20:15.632Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:20:17.424Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:21:11.361Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:21:12.135Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:22:49.902Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:24:34.005Z [petshop-api] error DELETE  - animal is not defined
+2021-09-13T19:37:45.956Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:15:23.991Z [petshop-api] info GET /proprietario
+2021-09-15T18:35:04.917Z [petshop-api] info GET /proprietario
+2021-09-15T18:35:36.416Z [petshop-api] error GET  - could not determine data type of parameter $1
+2021-09-15T18:37:32.272Z [petshop-api] info GET /proprietario
+2021-09-15T18:37:46.989Z [petshop-api] info GET /animal
+2021-09-15T18:39:30.149Z [petshop-api] info POST /proprietario - {"proprietario_id":7,"nome":"JULIO","telefone":"81998131946"}
+2021-09-15T18:39:48.073Z [petshop-api] info GET /proprietario
+2021-09-15T18:39:54.449Z [petshop-api] error DELETE  - could not determine data type of parameter $1
+2021-09-15T18:39:58.794Z [petshop-api] error DELETE  - could not determine data type of parameter $1
+2021-09-15T18:40:19.035Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:50.300Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:52.443Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:53.080Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:53.595Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:54.101Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:54.320Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:40:54.483Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T18:42:58.395Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:43:04.792Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:43:48.051Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:43:49.026Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:43:49.712Z [petshop-api] error DELETE  - animal is not defined
+2021-09-15T18:44:26.770Z [petshop-api] info DELETE /proprietario
+2021-09-15T18:44:49.225Z [petshop-api] info GET /proprietario
+2021-09-15T18:45:53.142Z [petshop-api] info GET /animal
+2021-09-15T18:46:07.937Z [petshop-api] info POST /proprietario - {"proprietario_id":8,"nome":"JULIO","telefone":"81998131946"}
+2021-09-15T18:46:43.080Z [petshop-api] info POST /proprietario - {"proprietario_id":9,"nome":"Teobaldo Teste","telefone":"8166548154"}
+2021-09-15T18:46:48.231Z [petshop-api] info GET /proprietario
+2021-09-15T18:47:22.102Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:31.608Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:32.452Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:33.009Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:33.203Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:33.365Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:47:56.914Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:48:06.145Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:48:49.249Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:48:50.281Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:28.334Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:29.021Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:29.550Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:29.765Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:29.926Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:30.080Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:36.395Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:37.175Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:37.638Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:37.832Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:50:37.984Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:51:41.996Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:51:58.932Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:00.009Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:00.481Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:00.637Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:00.785Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:10.939Z [petshop-api] error PUT  - Proprietario ID, Name e Telefone são obrigatórios.
+2021-09-15T18:52:39.576Z [petshop-api] info PUT /proprietario - {"proprietario_id":8,"nome":"Julio Teste","telefone":"(81)998131946"}
+2021-09-15T18:52:46.151Z [petshop-api] info PUT /proprietario - {"proprietario_id":8,"nome":"Julio Teste","telefone":"(81) 998131946"}
+2021-09-15T18:53:11.259Z [petshop-api] info PUT /proprietario - {"proprietario_id":9,"nome":"Teobaldo Teste","telefone":"(81) 985422181"}
+2021-09-15T18:53:26.297Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:53:27.401Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:53:37.633Z [petshop-api] info GET /animal
+2021-09-15T18:54:25.215Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T18:55:57.175Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:55:58.059Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:55:58.307Z [petshop-api] error POST  - animal is not defined
+2021-09-15T18:55:58.447Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:00.821Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:12.360Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:13.094Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:13.506Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:13.657Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:13.810Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:15.228Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:15.369Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:15.527Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:24.890Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:05:25.544Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:37.782Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:12:45.650Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:46.477Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:46.962Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:47.135Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:47.327Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:47.437Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:12:47.590Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:09.949Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:11.014Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:11.581Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:11.896Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:12.066Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:14:12.211Z [petshop-api] error POST  - animal is not defined
+2021-09-15T19:17:44.361Z [petshop-api] info POST /animal - {"animal_id":10,"nome":"Carrapato Teste","tipo":"Pulga","proprietario_id":9}
+2021-09-15T19:19:37.808Z [petshop-api] info GET /proprietario
+2021-09-15T19:20:05.905Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T19:20:15.389Z [petshop-api] info DELETE /proprietario
+2021-09-15T19:20:23.346Z [petshop-api] info GET /proprietario
+2021-09-15T19:20:31.966Z [petshop-api] error DELETE  - column "animais_id" does not exist
+2021-09-15T19:21:02.971Z [petshop-api] info GET /animal
+2021-09-15T19:21:07.221Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-15T19:21:11.860Z [petshop-api] error GET  - column "animais_id" does not exist
+2021-09-15T19:21:17.166Z [petshop-api] info GET /animal
+2021-09-15T19:22:57.033Z [petshop-api] info GET /animal
+2021-09-15T19:23:01.780Z [petshop-api] info DELETE /animal
+2021-09-15T19:23:05.782Z [petshop-api] info GET /animal
+2021-09-15T19:23:34.662Z [petshop-api] info POST /animal - {"animal_id":11,"nome":"Carrapato Teste","tipo":"Pulga","proprietario_id":9}
+2021-09-15T19:23:48.951Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:23:49.736Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:23:49.933Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:23:50.087Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:23:50.246Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:24:04.192Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:24:10.672Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:24:11.411Z [petshop-api] error PUT  - Animais ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:25:11.048Z [petshop-api] error PUT  - Animal ID, Nome, Tipo e Proprietario ID são obrigatórios.
+2021-09-15T19:25:59.689Z [petshop-api] info PUT /animal - undefined
+2021-09-15T19:26:19.170Z [petshop-api] info GET /animal
+2021-09-15T19:26:32.959Z [petshop-api] info GET /proprietario
+2021-09-15T19:26:42.141Z [petshop-api] info GET /proprietario
+2021-09-15T19:26:48.616Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T19:26:58.068Z [petshop-api] info GET /animal
+2021-09-15T19:27:02.879Z [petshop-api] error GET  - invalid input syntax for integer: "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e12"
+2021-09-15T19:27:04.901Z [petshop-api] info GET /animal
+2021-09-15T19:27:09.957Z [petshop-api] info GET /animal
+2021-09-15T19:27:25.688Z [petshop-api] info DELETE /animal
+2021-09-15T19:27:28.359Z [petshop-api] info GET /animal
+2021-09-15T19:27:33.247Z [petshop-api] info DELETE /proprietario
+2021-09-15T19:27:36.008Z [petshop-api] info GET /proprietario
+2021-09-15T19:27:41.406Z [petshop-api] info GET /proprietario
+2021-09-15T21:59:27.480Z [petshop-api] info GET /animal
+2021-09-15T21:59:57.106Z [petshop-api] info GET /animal
+2021-09-15T22:00:15.130Z [petshop-api] info GET /animal
+2021-09-15T22:19:09.656Z [petshop-api] info GET /animal
+2021-09-15T22:20:11.125Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:20:40.179Z [petshop-api] error GET  - there is no parameter $4
+2021-09-15T22:22:03.344Z [petshop-api] info GET /animal
+2021-09-15T22:22:07.929Z [petshop-api] info GET /animal
+2021-09-15T22:22:19.974Z [petshop-api] error GET  - id is not defined
+2021-09-15T22:23:08.826Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:23:28.986Z [petshop-api] error GET  - there is no parameter $3
+2021-09-15T22:27:25.478Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:30:06.011Z [petshop-api] info GET /animal
+2021-09-15T22:30:09.929Z [petshop-api] info GET /animal
+2021-09-15T22:30:13.339Z [petshop-api] info GET /animal
+2021-09-15T22:30:17.846Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:30:23.693Z [petshop-api] info GET /animal
+2021-09-15T22:32:02.505Z [petshop-api] info GET /animal
+2021-09-15T22:32:06.121Z [petshop-api] error GET  - argument of WHERE must be type boolean, not type integer
+2021-09-15T22:35:22.008Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:37:39.115Z [petshop-api] error GET  - there is no parameter $4
+2021-09-15T22:39:34.592Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:39:57.834Z [petshop-api] error GET  - proprietario_id is not defined
+2021-09-15T22:40:21.815Z [petshop-api] error GET  - Cannot access 'res' before initialization
+2021-09-15T22:41:21.597Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:41:50.727Z [petshop-api] error GET  - proprietario_id is not defined
+2021-09-15T22:42:16.757Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:43:33.639Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:44:23.379Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:45:25.574Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:47:46.024Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:48:06.543Z [petshop-api] error GET  - there is no parameter $1
+2021-09-15T22:49:12.934Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:49:25.310Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:49:40.883Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:49:49.270Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:49:51.694Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:49:52.712Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:50:03.583Z [petshop-api] error GET  - animais is not defined
+2021-09-15T22:50:07.161Z [petshop-api] info GET /animal
+2021-09-15T22:50:14.726Z [petshop-api] info GET /animal
+2021-09-15T22:50:15.779Z [petshop-api] info GET /animal
+2021-09-15T22:50:19.377Z [petshop-api] info GET /animal
+2021-09-15T22:50:20.208Z [petshop-api] info GET /animal
+2021-09-15T22:50:21.251Z [petshop-api] info GET /animal
+2021-09-15T22:50:38.471Z [petshop-api] info GET /animal
+2021-09-15T22:50:46.802Z [petshop-api] info GET /animal
+2021-09-15T22:50:47.885Z [petshop-api] info GET /animal
+2021-09-15T22:50:51.068Z [petshop-api] info GET /animal
+2021-09-15T22:51:05.309Z [petshop-api] info GET /animal
+2021-09-15T22:51:06.226Z [petshop-api] info GET /animal
+2021-09-15T22:51:29.919Z [petshop-api] info GET /animal
+2021-09-15T22:51:42.135Z [petshop-api] info GET /animal
+2021-09-15T22:51:55.426Z [petshop-api] info GET /animal
+2021-09-15T22:52:12.399Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:52:43.209Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:52:52.195Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:52:52.818Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:52:53.196Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:52:53.350Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:53:10.178Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:53:20.873Z [petshop-api] info GET /animal
+2021-09-15T22:58:43.494Z [petshop-api] info GET /animal
+2021-09-15T22:58:47.231Z [petshop-api] info GET /animal
+2021-09-15T22:58:48.993Z [petshop-api] info GET /animal
+2021-09-15T22:58:49.672Z [petshop-api] info GET /animal
+2021-09-15T22:59:03.733Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:59:12.179Z [petshop-api] error GET  - Cannot read property 'proprietario_id' of undefined
+2021-09-15T22:59:19.733Z [petshop-api] info GET /animal
+2021-09-15T23:13:16.078Z [petshop-api] info GET /animal
+2021-09-15T23:13:46.251Z [petshop-api] info GET /animal
+2021-09-15T23:14:01.667Z [petshop-api] info GET /animal
+2021-09-15T23:14:15.328Z [petshop-api] info GET /animal
+2021-09-15T23:14:29.055Z [petshop-api] info GET /animal
+2021-09-15T23:14:51.146Z [petshop-api] info GET /animal
+2021-09-15T23:15:05.182Z [petshop-api] info GET /animal
+2021-09-15T23:15:38.531Z [petshop-api] info GET /animal
+2021-09-15T23:15:49.022Z [petshop-api] info GET /animal
+2021-09-15T23:23:12.660Z [petshop-api] info GET /animal
+2021-09-15T23:23:15.783Z [petshop-api] info GET /animal
+2021-09-15T23:24:46.639Z [petshop-api] info GET /animal
+2021-09-15T23:25:26.276Z [petshop-api] info POST /proprietario - {"proprietario_id":10,"nome":"Teobaldo Teste","telefone":"8166548154"}
+2021-09-15T23:25:36.995Z [petshop-api] info POST /animal - {"animal_id":12,"nome":"Carrapato Teste","tipo":"Pulga","proprietario_id":10}
+2021-09-15T23:25:42.199Z [petshop-api] info GET /proprietario
+2021-09-15T23:25:50.688Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:26:05.026Z [petshop-api] info GET /animal
+2021-09-15T23:26:13.435Z [petshop-api] info DELETE /animal
+2021-09-15T23:26:17.389Z [petshop-api] info GET /animal
+2021-09-15T23:26:22.369Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:26:34.959Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:26:43.124Z [petshop-api] info GET /proprietario
+2021-09-15T23:26:50.044Z [petshop-api] info GET /animal
+2021-09-15T23:27:14.992Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:27:35.573Z [petshop-api] info DELETE /proprietario
+2021-09-15T23:28:09.766Z [petshop-api] info GET /animal
+2021-09-15T23:29:25.618Z [petshop-api] info GET /animal
+2021-09-15T23:35:18.310Z [petshop-api] info GET /animal
+2021-09-15T23:35:24.924Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:35:29.282Z [petshop-api] info GET /proprietario
+2021-09-15T23:35:36.784Z [petshop-api] info GET /proprietario
+2021-09-15T23:35:45.467Z [petshop-api] info GET /proprietario
+2021-09-15T23:36:09.014Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:36:50.306Z [petshop-api] info POST /proprietario - {"proprietario_id":11,"nome":"Teobaldo Teste","telefone":"8166548154"}
+2021-09-15T23:36:52.073Z [petshop-api] error POST  - O proprietario_id informado não existe.
+2021-09-15T23:37:07.424Z [petshop-api] info POST /animal - {"animal_id":13,"nome":"Carrapato Teste","tipo":"Pulga","proprietario_id":11}
+2021-09-15T23:37:10.556Z [petshop-api] info GET /animal
+2021-09-15T23:37:15.535Z [petshop-api] info GET /animal
+2021-09-15T23:37:26.280Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:38:35.691Z [petshop-api] info GET /proprietario
+2021-09-15T23:38:46.612Z [petshop-api] info GET /proprietario
+2021-09-15T23:38:51.090Z [petshop-api] info DELETE /proprietario
+2021-09-15T23:38:56.282Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2021-09-15T23:39:23.066Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:39:28.315Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:39:30.293Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:40:43.184Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:41:02.897Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:41:06.817Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:43:11.558Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:43:12.884Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:43:16.613Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:43:25.165Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:47:13.008Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:47:21.678Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:47:46.546Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:47:56.113Z [petshop-api] error DELETE  - invalid input syntax for integer: ""
+2021-09-15T23:48:06.704Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:48:08.375Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:48:16.765Z [petshop-api] error DELETE  - invalid input syntax for integer: ""
+2021-09-15T23:48:28.132Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:48:29.496Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:49:07.912Z [petshop-api] error DELETE  - Proprietario não cadastrado
+2021-09-15T23:49:19.918Z [petshop-api] info GET /proprietario
+2021-09-15T23:49:27.010Z [petshop-api] error DELETE  - Proprietario não cadastrado
+2021-09-15T23:49:28.978Z [petshop-api] error DELETE  - Proprietario não cadastrado
+2021-09-15T23:49:47.621Z [petshop-api] error DELETE  - Proprietario não cadastrado
+2021-09-15T23:49:51.535Z [petshop-api] error DELETE  - Proprietario não cadastrado
+2021-09-15T23:54:14.222Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:55:40.877Z [petshop-api] info DELETE /proprietario
+2021-09-15T23:55:51.674Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2021-09-15T23:56:11.034Z [petshop-api] error DELETE  - update or delete on table "proprietarios" violates foreign key constraint "fk_proprietarios" on table "animais"
+2021-09-15T23:56:52.061Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-15T23:57:00.353Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:03:36.003Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:06:28.198Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:06:31.125Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:06:50.138Z [petshop-api] info DELETE /animal
+2021-09-16T00:06:53.579Z [petshop-api] info GET /animal
+2021-09-16T00:06:57.933Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:00.762Z [petshop-api] info GET /proprietario
+2021-09-16T00:07:06.247Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:24.287Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:27.622Z [petshop-api] info GET /proprietario
+2021-09-16T00:07:30.739Z [petshop-api] info GET /proprietario
+2021-09-16T00:07:42.511Z [petshop-api] info GET /proprietario
+2021-09-16T00:07:48.641Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:50.042Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:50.901Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:07:53.783Z [petshop-api] info GET /animal
+2021-09-16T00:08:01.606Z [petshop-api] info GET /proprietario
+2021-09-16T00:08:10.757Z [petshop-api] info GET /animal
+2021-09-16T00:08:23.180Z [petshop-api] info GET /proprietario
+2021-09-16T00:08:31.734Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:10:06.232Z [petshop-api] info DELETE /proprietario
+2021-09-16T00:10:11.961Z [petshop-api] info DELETE /proprietario
+2021-09-16T00:10:19.731Z [petshop-api] info GET /proprietario
+2021-09-16T00:13:55.729Z [petshop-api] error DELETE  - Cannot read property '0' of undefined
+2021-09-16T00:13:58.762Z [petshop-api] error DELETE  - Cannot read property '0' of undefined
+2021-09-16T00:13:59.493Z [petshop-api] error DELETE  - Cannot read property '0' of undefined
+2021-09-16T00:28:22.211Z [petshop-api] info POST /proprietario - {"proprietario_id":12,"nome":"Teobaldo Teste","telefone":"8166548154"}
+2021-09-16T00:28:27.720Z [petshop-api] info GET /animal
+2021-09-16T00:28:32.806Z [petshop-api] error POST  - O proprietario_id informado não existe.
+2021-09-16T00:28:43.696Z [petshop-api] info POST /animal - {"animal_id":14,"nome":"Carrapato Teste","tipo":"Pulga","proprietario_id":12}
+2021-09-16T00:28:48.929Z [petshop-api] info GET /proprietario
+2021-09-16T00:29:00.956Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:29:05.421Z [petshop-api] info DELETE /proprietario
+2021-09-16T00:29:10.007Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:29:35.201Z [petshop-api] info GET /animal
+2021-09-16T00:29:40.851Z [petshop-api] info GET /animal
+2021-09-16T00:29:44.740Z [petshop-api] info GET /animal
+2021-09-16T00:29:48.010Z [petshop-api] info GET /animal
+2021-09-16T00:29:52.576Z [petshop-api] info GET /animal
+2021-09-16T00:29:57.187Z [petshop-api] info GET /animal
+2021-09-16T00:30:02.981Z [petshop-api] info GET /animal
+2021-09-16T00:30:08.915Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:30:15.437Z [petshop-api] info DELETE /proprietario
+2021-09-16T00:30:23.729Z [petshop-api] error DELETE  - Proprietario não pode ser deletado, animal Vinculado
+2021-09-16T00:30:55.148Z [petshop-api] info DELETE /animal
+2021-09-16T00:31:10.564Z [petshop-api] info DELETE /proprietario
+2021-09-16T00:31:12.657Z [petshop-api] info GET /proprietario

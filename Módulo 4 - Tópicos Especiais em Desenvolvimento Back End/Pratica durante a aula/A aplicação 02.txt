@@ -1,0 +1,8 @@
+A aplicação – 02
+
+❑ O valor final da soma das prestações deve ser igual 
+ao valor do montante arredondado em duas casas 
+decimais.
+
+❑ Caso o cliente já tenha realizado uma consulta nos 
+últimos 30 dias, a nova solicitação será recusada.
